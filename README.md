@@ -15,3 +15,10 @@ POST /licenses 409:{"code":1002,"message":"no more active licenses allowed"}
 POST /dig 404:{"code":404,"message":"no treasure"}
 
 POST /cash 503:{"code":503,"message":"service unavailable"}
+
+
+Сколько стоит лицензия?
+
+https://github.com/All-Cups/highloadcup/issues/8 
+
+(Всегда одна монета)
